@@ -111,6 +111,7 @@ body {
   }
   
   .profile-image-wrapper img {
+    float: left;
     width: 60%;
     padding-left: 100px;
     padding-top: 25px;
